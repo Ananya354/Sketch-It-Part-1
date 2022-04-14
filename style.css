@@ -1,0 +1,43 @@
+body{
+align-content: center;
+}
+
+h1{
+color: white;
+font-family:Old English Text MT;
+font-size: 60px;
+}
+
+p{
+color: black;
+background-color: aliceblue;
+font-size: 25px;
+width: 250px;
+height: 40px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#show_sketch{
+float: right;
+}
+
+#score{
+    color: rgb(0, 0, 0);
+    background-color: rgb(138, 244, 1);
+    font-size: 25px;
+    width: 100px;
+    text-align: center;
+    height: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#timer{
+    color: rgb(0, 0, 0);
+    background-color: rgb(138, 244, 1);
+    font-size: 25px;
+    width: 100px;
+    text-align: center;
+    float: right;
+    height: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
